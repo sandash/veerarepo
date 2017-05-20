@@ -54,7 +54,7 @@ out.println("<h1>email delivered succesfully to "+to+"<h1>");
 				
 	} catch (Exception e) {
 		out.println(e);
-		//System.out.println("hanumanthu");
+		
 	}
 	
 	}
